@@ -1,3 +1,5 @@
+# github-api-snippets
+
 ```sh
 yarn
 export GITHUB_TOKEN=xxx

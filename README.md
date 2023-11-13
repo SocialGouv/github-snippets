@@ -1,4 +1,4 @@
-# github-api-snippets
+# github-snippets
 
 
 ```sh
